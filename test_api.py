@@ -1,7 +1,6 @@
 import allure
 import pytest
 import requests
-from parameterized import parameterized
 
 data = {
         "id": 0,
